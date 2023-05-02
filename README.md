@@ -1,9 +1,8 @@
 # SQL-Assignment
 
 
-/*
 CREATE DATABASE sales;
-*/
+
 
 USE sales;
 
